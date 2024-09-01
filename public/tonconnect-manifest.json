@@ -1,0 +1,5 @@
+{
+  "url": "https://mayloveless.github.io/tma_test",                        // required
+  "name": "TonConnect Test",                      // required
+  "iconUrl": "https://mayloveless.github.io/tma_test/favicon.ico",               // required
+}
